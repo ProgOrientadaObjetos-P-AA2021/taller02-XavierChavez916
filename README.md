@@ -21,7 +21,7 @@
 		* obtenerNacionalidad
 		* obtenerIdentificacion
 
-**Considerar: los datos deben ser públicos y los atributos públicos**
+**Considerar: los datos deben ser públicos y los metodos públicos**
 
 ## Problema 2
 
